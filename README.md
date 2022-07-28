@@ -20,7 +20,7 @@ You can also send email to the me by clicking the email anchor or just click the
 
 ## Live Link
 
-https://jean424.github.io/update-portfolio/
+https://jean424.github.io/Portfolio_v3/
 
 ![Screenshot of deployed application](./assets/images/portfolio_homepage1.png)
 ![Screenshot of deployed application](./assets/images/portfolio_homepage2.png)
